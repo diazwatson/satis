@@ -7,3 +7,5 @@
 /.phpunit.result.cache
 /clover.xml
 /resultCache.php
+.env
+satis.json
