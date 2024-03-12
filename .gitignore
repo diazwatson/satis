@@ -9,3 +9,5 @@
 /resultCache.php
 .env
 satis.json
+auth.json
+web/
